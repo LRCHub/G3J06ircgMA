@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ANEMONE",
+  "base_artist": "常闇トワ",
+  "createdAt": "2026-02-23T10:16:08.187815Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anemone",
+      "artist": "The Brian Jonestown Massacre",
+      "has_synced": false,
+      "path": "select/01_Anemone_The_Brian_Jonestown_Massacre.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Anemone",
+      "artist": "The Joy Formidable",
+      "has_synced": true,
+      "path": "select/02_Anemone_The_Joy_Formidable.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Anemone (Withered Hopes…Forsaken)",
+      "artist": "Virgin Steele",
+      "has_synced": true,
+      "path": "select/03_Anemone_(Withered_Hopes...Forsaken)_Virgin_Steele.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Anemone (Withered Hopes... Forsaken)",
+      "artist": "Virgin Steele",
+      "has_synced": true,
+      "path": "select/04_Anemone_(Withered_Hopes..._Forsaken)_Virgin_Steele.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Anemone Arms",
+      "artist": "Snowden",
+      "has_synced": true,
+      "path": "select/05_Anemone_Arms_Snowden.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hibou Anemone And Bear",
+      "artist": "Soft Machine",
+      "has_synced": true,
+      "path": "select/06_Hibou_Anemone_And_Bear_Soft_Machine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Anemone",
+      "artist": "slenderbodies",
+      "has_synced": true,
+      "path": "select/07_Anemone_slenderbodies.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Anemone (Remastered 2022)",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/08_Anemone_(Remastered_2022)_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Anemone",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/09_Anemone_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Anemone",
+      "artist": "Joywave",
+      "has_synced": false,
+      "path": "select/10_Anemone_Joywave.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Anemone heart",
+      "artist": "南ことり(CV.内田 彩) feat. 園田海未(CV.三森すずこ)",
+      "has_synced": true,
+      "path": "select/11_Anemone_heart_南ことり(CV.内田_彩)_feat._園田海未(CV.三森すずこ).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Anemone heart",
+      "artist": "南ことり(CV.内田彩)&園田海未(CV.三森すずこ)",
+      "has_synced": true,
+      "path": "select/12_Anemone_heart_南ことり(CV.内田彩)&園田海未(CV.三森すずこ).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Anemone heart (UMI Mix)",
+      "artist": "園田海未(CV.三森すずこ)",
+      "has_synced": false,
+      "path": "select/13_Anemone_heart_(UMI_Mix)_園田海未(CV.三森すずこ).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Anemone heart (UMI Mix)",
+      "artist": "三森すずこ",
+      "has_synced": false,
+      "path": "select/14_Anemone_heart_(UMI_Mix)_三森すずこ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Anemone no Hana",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/15_Anemone_no_Hana_fhána.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sea Anemone",
+      "artist": "Jets to Brazil",
+      "has_synced": false,
+      "path": "select/16_Sea_Anemone_Jets_to_Brazil.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "anemone",
+      "artist": "BAND-MAID",
+      "has_synced": true,
+      "path": "select/17_anemone_BAND-MAID.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ANEMONE",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_ANEMONE_常闇トワ.txt"
+    }
+  ]
+}
